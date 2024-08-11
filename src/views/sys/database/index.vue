@@ -13,3 +13,4 @@
   import DataBaseManagement from "/@/views/sys/database/DataBaseManagement.vue";
   import PageWrapper from "/@/components/general/Page/src/PageWrapper.vue";
 </script>
+
