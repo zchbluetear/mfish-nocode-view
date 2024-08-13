@@ -3,7 +3,7 @@
     <template #headerContent>
       <div class="flex justify-between items-center">
         <span>
-          摸鱼低代码平台前端<a :href="GITHUB_URL" target="_blank">{{ name + "-view" }}</a>
+          星辰工作台前端<a :href="GITHUB_URL" target="_blank">{{ name + "-view" }}</a>
           基于Vue3.x、Vite5.x、Ant-Design-Vue4.x、TypeScript，后端<a :href="GITHUB_BACK_URL" target="_blank">{{
             name
           }}</a>

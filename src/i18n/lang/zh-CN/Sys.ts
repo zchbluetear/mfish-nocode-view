@@ -67,8 +67,8 @@ export default {
     signUpFormTitle: "注册",
     forgetFormTitle: "重置密码",
 
-    signInTitle: "摸鱼低代码平台",
-    signInDesc: "摸鱼低代码平台希望打造一个基于低代码的无代码平台。既能给程序员使用，也能满足非专业人士的需求",
+    signInTitle: "星辰工作台",
+    signInDesc: "星辰工作台希望打造一个基于低代码的无代码平台。既能给程序员使用，也能满足非专业人士的需求",
     policy: "我同意xxx隐私政策",
     scanSign: `扫码后点击"确认"，即可完成登录`,
 

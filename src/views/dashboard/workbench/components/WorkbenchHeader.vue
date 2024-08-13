@@ -5,7 +5,6 @@
       <h1 class="md:text-lg text-md"
         >早安, {{ userInfo?.nickname ? userInfo?.nickname : userInfo?.account }}, 开始您一天的工作吧！</h1
       >
-      <span class="text-secondary"> 今日晴，20℃ - 32℃！ </span>
     </div>
     <div class="flex flex-1 justify-end md:mt-0 mt-4">
       <div class="flex flex-col justify-center text-right">
@@ -19,7 +18,7 @@
       </div>
       <div class="flex flex-col justify-center text-right md:mr-10 mr-4">
         <span class="text-secondary"> 团队 </span>
-        <span class="text-2xl">300</span>
+        <span class="text-2xl">100</span>
       </div>
     </div>
   </div>

@@ -111,46 +111,46 @@ export const groupItems: GroupItem[] = [
     color: "",
     desc: "不要等待机会，而要创造机会。",
     group: "开源组",
-    date: "2021-04-01"
+    date: "2024-08-11"
   },
   {
-    title: "Vue",
+    title: "Java",
     icon: "ion:logo-vue",
     color: "#3fb27f",
     desc: "现在的你决定将来的你。",
-    group: "算法组",
-    date: "2021-04-01"
+    group: "后端组",
+    date: "2024-08-11"
   },
   {
-    title: "Html5",
+    title: "DB",
     icon: "ion:logo-html5",
     color: "#e18525",
     desc: "没有什么才能比努力更重要。",
-    group: "上班摸鱼",
-    date: "2021-04-01"
+    group: "数据组",
+    date: "2024-08-11"
   },
   {
-    title: "Angular",
+    title: "Web",
     icon: "ion:logo-angular",
     color: "#bf0c2c",
     desc: "热情和欲望可以突破一切难关。",
-    group: "UI",
-    date: "2021-04-01"
+    group: "UI组",
+    date: "2024-08-11"
   },
   {
-    title: "React",
+    title: "Linux",
     icon: "bx:bxl-react",
     color: "#00d8ff",
     desc: "健康的身体是实目标的基石。",
-    group: "技术牛",
-    date: "2021-04-01"
+    group: "系统组",
+    date: "2024-08-11"
   },
   {
-    title: "Js",
+    title: "K8s",
     icon: "ion:logo-javascript",
     color: "#4daf1bc9",
     desc: "路是走出来的，而不是空想出来的。",
-    group: "架构组",
-    date: "2021-04-01"
+    group: "运维组",
+    date: "2024-08-11"
   }
 ];

@@ -9,8 +9,8 @@
       <div class="logo -enter-x">
         <img class="brand" src="/resource/img/logo.png" alt="logo" />
         <div class="title">
-          <h1>摸鱼低代码平台</h1>
-          <h6>MFish NoCode</h6>
+          <h1>星辰工作台</h1>
+          <h6>Stars Workbench</h6>
         </div>
       </div>
       <div id="errorShow" data-bs-toggle="modal" data-bs-target="#errorModal" style="position: absolute"></div>
@@ -147,7 +147,7 @@
           </div>
         </div>
       </div>
-      <div class="footer"> Copyright &copy; 2023 &mdash; 摸鱼低代码平台</div>
+      <div class="footer"> Copyright &copy; 2023 &mdash; 星辰工作台</div>
     </div>
   </section>
 </template>
@@ -589,4 +589,5 @@
       padding: 10px;
     }
   }
+
 </style>
